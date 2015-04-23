@@ -1,0 +1,7 @@
+{
+    "name": "${ant.project.name}",
+    "mcversion": "${litemodversion}",
+    "revision": "${build.number}",
+    "author": "${author}",
+    "description": "This mod compares your current armor to armor in your inventory or a chest, and shows its damage reduction values."
+}
